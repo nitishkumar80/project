@@ -29,7 +29,7 @@ section > nav {
   grid-template-rows: 0.8fr;
   align-content: space-around;
   justify-content: space-around;
-  background-image: url('/assests/img/b01.jpg');
+  background-image: url('/PROJECT/assests/img/b01.jpg');
   background-color: rgb(211, 214, 42);
 }
 
@@ -99,7 +99,7 @@ section > main {
 }
 
 .item-1 {
-  background-image: url('E:\Html Project File\PROJECT\assests\img/m001.jpg');
+  background-image: url('/PROJECT/assests/img/m001.jpg');
   background-size: 100% 100%;
 }
 
@@ -140,12 +140,12 @@ section > main {
 
 .item-1:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url('/assests/img/m001.jpg');
+    url('/PROJECT/assests/img/m001.jpg');
   cursor: pointer;
 }
 
 .item-2 {
-  background-image: url('PROJECT/assests/img/m002.jpg');
+  background-image: url('/PROJECT/assests/img/m002.jpg');
   background-size: 100% 100%;
 }
 
@@ -186,12 +186,12 @@ section > main {
 
 .item-2:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url('/assests/img/m002.jpg');
+    url('/PROJECT/assests/img/m002.jpg');
   cursor: pointer;
 }
 
 .item-3 {
-  background-image: url('/assests/img/m09.jpg');
+  background-image: url('/PROJECT/assests/img/m09.jpg');
   background-size: 100% 100%;
 }
 
@@ -232,12 +232,12 @@ section > main {
 
 .item-3:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url('/assests/img/m09.jpg');
+    url('/PROJECT/assests/img/m09.jpg');
   cursor: pointer;
 }
 
 .item-4 {
-  background-image: url('/assests/img/m08.jpg');
+  background-image: url('/PROJECT/assests/img/m08.jpg');
   background-size: 100% 100%;
 }
 
@@ -278,12 +278,12 @@ section > main {
 
 .item-4:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url('/assests/img/m08.jpg');
+    url('/PROJECT/assests/img/m08.jpg');
   cursor: pointer;
 }
 
 .item-5 {
-  background-image: url('/assests/img/a06.jpg');
+  background-image: url('/PROJECT/assests/img/a06.jpg');
   background-size: 100% 100%;
 }
 
@@ -324,12 +324,12 @@ section > main {
 
 .item-5:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url('/assests/img/a06.jpg');
+    url('/PROJECT/assests/img/a06.jpg');
   cursor: pointer;
 }
 
 .item-6 {
-  background-image: url('/assests/img/a08.jpg');
+  background-image: url('/PROJECT/assests/img/a08.jpg');
   background-size: 100% 100%;
 }
 
@@ -370,12 +370,12 @@ section > main {
 
 .item-6:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url('/assests/img/a08.jpg');
+    url('/PROJECT/assests/img/a08.jpg');
   cursor: pointer;
 }
 
 .item-7 {
-  background-image: url(/assests/img/a01.jpg);
+  background-image: url(/PROJECT/assests/img/a01.jpg);
   background-size: 100% 100%;
 }
 
@@ -416,12 +416,12 @@ section > main {
 
 .item-7:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url('/assests/img/a01.jpg');
+    url('/PROJECT/assests/img/a01.jpg');
   cursor: pointer;
 }
 
 .item-8 {
-  background-image: url('/assests/img/a03.jpg');
+  background-image: url('/PROJECT/assests/img/a03.jpg');
   background-size: 100% 100%;
 }
 
@@ -462,7 +462,7 @@ section > main {
 
 .item-8:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url('/assests/img/a03.jpg');
+    url('/PROJECT/assests/img/a03.jpg');
   cursor: pointer;
 }
 
@@ -548,7 +548,7 @@ section > footer {
   grid-template-rows: 0.8fr;
   align-content: space-around;
   justify-content: space-around;
-  background-image:url('/assests/img/b01.jpg');
+  background-image:url('/PROJECT/assests/img/b01.jpg');
   background-color: rgb(223, 32, 32);
 }
 

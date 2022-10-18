@@ -19,7 +19,7 @@ section {
   grid-template-rows: 15vh 90vh 15vh;
   align-content: space-around;
   justify-content: space-evenly;
-  background-image: url('/assests/img/b03.jpg');
+  background-image: url('assests/img/b03.jpg');
   transition: all 0.5s;
 }
 
@@ -99,7 +99,8 @@ section > main {
 }
 
 .item-1 {
-  background-image: url('/assests/img/s01.jpeg');
+ 
+  background-image: url('/PROJECT/assests/img/s01.jpeg');
   background-size: 100% 100%;
 }
 
@@ -140,11 +141,11 @@ section > main {
 
 .item-1:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url('/assests/img/s01.jpeg');
+    url('/PROJECT/assests/img/s01.jpeg');
 }
 
 .item-2 {
-  background-image: url('/assests/img/s02.jpg');
+  background-image: url('/PROJECT/assests/img/s02.jpg');
   background-size: 100% 100%;
 }
 
@@ -185,11 +186,11 @@ section > main {
 
 .item-2:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url('/assests/img/s02.jpg');
+    url('/PROJECT/assests/img/s02.jpg');
 }
 
 .item-3 {
-  background-image: url('/assests/img/s05.jpg');
+  background-image: url('/PROJECT/assests/img/s05.jpg');
   background-size: 100% 100%;
 }
 
@@ -230,11 +231,11 @@ section > main {
 
 .item-3:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url('/assests/img/s05.jpg');
+    url('/PROJECT/assests/img/s05.jpg');
 }
 
 .item-4 {
-  background-image: url('/assests/img/s06.jpg');
+  background-image: url('/PROJECT/assests/img/s06.jpg');
   background-size: 100% 100%;
 }
 
@@ -275,7 +276,7 @@ section > main {
 
 .item-4:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url('/assests/img/s06.jpg');
+    url('/PROJECT/assests/img/s06.jpg');
 }
 
 @media (min-width: 0px) and (max-width: 425px) {
@@ -344,7 +345,7 @@ section > footer {
   grid-template-rows: 0.8fr;
   align-content: space-around;
   justify-content: space-around;
-  background-image: url('/assests/img/b02.jpg');
+  background-image: url('/PROJECT/assests/img/b02.jpg');
 }
 
 section > footer > span {

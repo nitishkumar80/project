@@ -83,7 +83,7 @@ section > nav > ul > li > a > i {
 }
 
 .furniture-side {
-  background-image: url('/assests/img/m06.webp');
+  background-image: url('/PROJECT/assests/img/m06.webp');
   background-size: 100% 100%;
   display: grid;
   align-content: space-around;
@@ -195,7 +195,7 @@ section > nav > ul > li > a > i {
 }
 
 .fruits-side {
-  background-image: url('/assests/img/s04.jpg');
+  background-image: url('/PROJECT/assests/img/s04.jpg');
   background-size: 100% 100%;
   display: grid;
   align-content: space-around;
