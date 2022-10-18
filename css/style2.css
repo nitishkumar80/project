@@ -19,7 +19,7 @@ section {
   grid-template-rows: 15vh 150vh 15vh;
   align-content: space-around;
   justify-content: space-evenly;
-  background-image: url('/assests/img/b03.jpg');
+  background-image: url('/PROJECT/assests/img/b03.jpg');
   transition: all 0.5s;
 }
 
